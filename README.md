@@ -30,7 +30,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" height="30" /> What you'll find on my GitHub
 On my GitHub you will mainly find school work as well as personal projects that I carry out in my free time :hourglass_flowing_sand:
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="30" height="30" /> Don't hesitate to reach me!
+### <a href="https://www.youtube.com/watch?v=y6QBaZHltJw" target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="30" height="30" /> Don't hesitate to reach me!</a>
 Feel free to reach out to me for general consulting or any questions about my work, I will try to respond as soon as possible!
 
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laliea/?locale=en_US)
